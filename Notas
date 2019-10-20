@@ -1,0 +1,2 @@
+Desafortunadamente, la función de hash MD5 tiene vulnerabilidades conocidas. 
+Los hackers pueden determinar las contraseñas originales comparando millones de valores de hash calculados previamente.
